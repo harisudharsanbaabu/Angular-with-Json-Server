@@ -1,0 +1,36 @@
+{
+  "api": [
+    {
+      "name": "Vishnavi",
+      "gender": "Female",
+      "age": 32,
+      "sslcmark": 384,
+      "dob": "2009-02-16",
+      "id": 4
+    },
+    {
+      "name": "rama",
+      "gender": "Male",
+      "age": 32,
+      "sslcmark": 432,
+      "dob": "2009-05-03",
+      "id": 1
+    },
+    {
+      "name": "joe",
+      "gender": "male",
+      "age": 32,
+      "id": 3,
+      "sslcmark": 344,
+      "dob": "2010-02-15"
+    },
+    {
+      "name": "joe",
+      "gender": "Male",
+      "age": 24,
+      "sslcmark": "456",
+      "dob": "1997-03-14T18:30:00.000Z",
+      "id": 5
+    }
+  ]
+}
